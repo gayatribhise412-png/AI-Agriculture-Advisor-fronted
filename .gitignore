@@ -1,0 +1,8 @@
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.vercel/
+.DS_Store
+*.log
+ai-agriculture-advisor/
