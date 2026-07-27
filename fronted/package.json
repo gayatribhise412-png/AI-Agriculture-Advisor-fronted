@@ -1,7 +1,7 @@
 {
-  "name": "ai-agriculture-advisor",
+  "name": "fronted1",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -19,5 +19,8 @@
     "@types/react-dom": "^18.2.22",
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^5.1.6"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
